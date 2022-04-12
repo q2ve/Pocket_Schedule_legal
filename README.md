@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to диагностические данные приложения, имя, место учебы, логин, аватар. The information that I request will be retained on our servers and on 3rd party services described in this Privacy Policy.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to **app's diagnostic data**, **name**, **place of study**, **login**, **userpic**. The information that I request will be retained on our servers and on 3rd party services described in this Privacy Policy.
 
 The app does use third-party services that may collect information used to identify you.
 
